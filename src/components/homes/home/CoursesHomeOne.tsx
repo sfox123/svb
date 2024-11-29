@@ -47,7 +47,7 @@ export default function CoursesHomeOne() {
                     <SwiperSlide className="single-course">
                       <div className="course-img">
                         <img src="assets/img/courses/1.jpg" alt="course image" />
-                        <span className="cprice">$50.00</span>
+                        
                       </div>
 
                       <div className="course_content">
@@ -58,49 +58,18 @@ export default function CoursesHomeOne() {
                             <i className="bx bxs-star"></i>
                             <i className="bx bxs-star"></i>
                             <i className="bx bxs-star"></i>
-                            <span>(21)</span>
                           </a>
                         </div>
-                        <h2><Link href="/course-details">Financial Security Thinking and Principles Theory</Link></h2>
-
-                        <div className="cmeta">
-                          <div className="smeta">
-                            <i className='bx bx-user'></i>
-                            25 Students
-                          </div>
-
-                          <div className="smeta">
-                            <i className='bx bx-file'></i>
-                            15 Lessons
-                          </div>
-
-                          <div className="smeta">
-                            <i className='bx bx-time-five'></i>
-                            1.5 Hours
-                          </div>
-                        </div>
-
+                        <h2><Link href="/course-details">Beginner’s Driving Lesson</Link></h2>
+                        <p>This course is designed to help new drivers develop the necessary knowledge and skills to become safe and responsible drivers.</p>
                         <div className="course_btm">
-                          <div className="cauthor">
-                            <a href="#">
-                              <img src="assets/img/review/1.jpg" alt="" />
-                              <span>Masum Billah</span>
-                            </a>
-                          </div>
-
-                          <div className="ccategory">
-                            <a href="#">
-                              WordPress
-                            </a>
-                          </div>
                         </div>
                       </div>
                     </SwiperSlide>
-
                     <SwiperSlide className="single-course">
                       <div className="course-img">
                         <img src="assets/img/courses/2.jpg" alt="course image" />
-                        <span className="cprice">$50.00</span>
+                        
                       </div>
 
                       <div className="course_content">
@@ -111,48 +80,18 @@ export default function CoursesHomeOne() {
                             <i className="bx bxs-star"></i>
                             <i className="bx bxs-star"></i>
                             <i className="bx bxs-star"></i>
-                            <span>(21)</span>
                           </a>
                         </div>
-                        <h2><Link href="/course-details">Professional Ceramic Moulding for Beginners</Link></h2>
-                        <div className="cmeta">
-                          <div className="smeta">
-                            <i className='bx bx-user'></i>
-                            25 Students
-                          </div>
-
-                          <div className="smeta">
-                            <i className='bx bx-file'></i>
-                            15 Lessons
-                          </div>
-
-                          <div className="smeta">
-                            <i className='bx bx-time-five'></i>
-                            1.5 Hours
-                          </div>
-                        </div>
-
+                        <h2><Link href="/course-details">Individual In-Car Lesson</Link></h2>
+                        <p>This Lesson is designed to help students who need additional practice before taking their G2 and G road test</p>
                         <div className="course_btm">
-                          <div className="cauthor">
-                            <a href="#">
-                              <img src="assets/img/review/1.jpg" alt="" />
-                              <span>Masum Billah</span>
-                            </a>
-                          </div>
-
-                          <div className="ccategory">
-                            <a href="#">
-                              JavaScript
-                            </a>
-                          </div>
                         </div>
                       </div>
                     </SwiperSlide>
-
                     <SwiperSlide className="single-course">
                       <div className="course-img">
                         <img src="assets/img/courses/3.jpg" alt="course image" />
-                        <span className="cprice">$50.00</span>
+                        
                       </div>
 
                       <div className="course_content">
@@ -163,96 +102,14 @@ export default function CoursesHomeOne() {
                             <i className="bx bxs-star"></i>
                             <i className="bx bxs-star"></i>
                             <i className="bx bxs-star"></i>
-                            <span>(21)</span>
                           </a>
                         </div>
-                        <h2><Link href="/course-details">Basic Fundamentals of Interior & Graphics Design</Link></h2>
-                        <div className="cmeta">
-                          <div className="smeta">
-                            <i className='bx bx-user'></i>
-                            25 Students
-                          </div>
-
-                          <div className="smeta">
-                            <i className='bx bx-file'></i>
-                            15 Lessons
-                          </div>
-
-                          <div className="smeta">
-                            <i className='bx bx-time-five'></i>
-                            1.5 Hours
-                          </div>
-                        </div>
-
+                        <h2><Link href="/course-details">Road Test Preparation</Link></h2>
+                        <p>Our experienced instructors prepare students for their road test by providing them with the necessary knowledge and skills.</p>
                         <div className="course_btm">
-                          <div className="cauthor">
-                            <a href="#">
-                              <img src="assets/img/review/1.jpg" alt="" />
-                              <span>Masum Billah</span>
-                            </a>
-                          </div>
-
-                          <div className="ccategory">
-                            <a href="#">
-                              Laravel
-                            </a>
-                          </div>
                         </div>
                       </div>
                     </SwiperSlide>
-
-                    <SwiperSlide className="single-course">
-                      <div className="course-img">
-                        <img src="assets/img/courses/4.jpg" alt="course image" />
-                        <span className="cprice">$50.00</span>
-                      </div>
-
-                      <div className="course_content">
-                        <div className="crating">
-                          <a href="#">
-                            <i className="bx bxs-star"></i>
-                            <i className="bx bxs-star"></i>
-                            <i className="bx bxs-star"></i>
-                            <i className="bx bxs-star"></i>
-                            <i className="bx bxs-star"></i>
-                            <span>(21)</span>
-                          </a>
-                        </div>
-                        <h2><Link href="/course-details">WordPress for Beginners – Master WordPress</Link></h2>
-                        <div className="cmeta">
-                          <div className="smeta">
-                            <i className='bx bx-user'></i>
-                            25 Students
-                          </div>
-
-                          <div className="smeta">
-                            <i className='bx bx-file'></i>
-                            15 Lessons
-                          </div>
-
-                          <div className="smeta">
-                            <i className='bx bx-time-five'></i>
-                            1.5 Hours
-                          </div>
-                        </div>
-
-                        <div className="course_btm">
-                          <div className="cauthor">
-                            <a href="#">
-                              <img src="assets/img/review/1.jpg" alt="" />
-                              <span>Masum Billah</span>
-                            </a>
-                          </div>
-
-                          <div className="ccategory">
-                            <a href="#">
-                              PHP
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </SwiperSlide>
-
 
                   </Swiper>
 

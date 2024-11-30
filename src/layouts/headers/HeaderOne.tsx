@@ -4,9 +4,10 @@ import Link from 'next/link'
 import React, { useState } from 'react'
 import NavMenu from './NavMenu'
 import MobileMenu from './MobileMenu'
- 
+
 export default function HeaderOne() {
 
+  const [open, setOpen] = useState(false)
   const [opneMenu, setOpneMenu] = useState(false)
 
   return (
@@ -26,21 +27,16 @@ export default function HeaderOne() {
               </nav>
             </div>
 
-            <div className="col-30 right-col align-self-center text-end">
-              <a href="/contact" className="white-btn bt">Contact Us</a>
-            </div>
+                    <div className="col-30 right-col align-self-center text-end hide-on-mobile">
+                    <a href="/contact" className="white-btn bt">Contact Us</a>
+                    </div>
+ 
 
           </div>
         </div>
 
         <div id="mini_cart" className="cart_drawer">
-          <div className="cart_top">
-            <a href="#" className="cart_close"><i className='bx bx-x'></i></a>
-            <h3 className="title">Courses List</h3>
-            <span className="cart_number">
-              3
-            </span>
-          </div>
+
 
           <div className="mini_cart_list">
             <ul>
@@ -106,21 +102,6 @@ export default function HeaderOne() {
                     <img src="assets/img/mcart/3.jpg" alt="Product Name" />
                   </a>
                 </div>
-
-                <div className="product-detail">
-                  <h3 className="product_name_mini">
-                    <a href="course-details.html">
-                      Photography Crash Course
-                    </a>
-                  </h3>
-                  <div className="product_info">
-                    <div className="product_quanity">QTY : 1 </div>
-                    <div className="product_price">
-                      <span className="price_sale">$25.00</span>
-                    </div>
-                  </div>
-                </div>
-
                 <div className="produc_remove">
                   <a href="#" className="remove-product">
                     <i className='bx bx-trash'></i>
@@ -129,25 +110,16 @@ export default function HeaderOne() {
               </li>
             </ul>
           </div>
+        </div>
 
-          <div className="cart_drawer_btm">
-            <div className="sub-total">
-              <span className="total-title float-start">Total:</span>
-              <span className="total-price float-end">$75.00</span>
-            </div>
-
-            <div className="bottom_group">
-              <a href="cart.html" className="button-viewcart">
-                <span>View Cart</span>
-              </a>
-              <a href="checkout.html" className="button-checkout">
-                <span>Checkout</span>
-              </a>
-            </div>
+        <div className={`search_box ${open ? "active" : ""}`}>
+          <div className="close-btn" onClick={() => setOpen(false)} style={{display: open ? "block" : "none"}}>
+            <i className="ti-close"></i>
           </div>
         </div>
 
-      <MobileMenu opneMenu={opneMenu} />
+        <div id="sm_menu_ham" className={`${opneMenu ? "open" : ""}`} onClick={() => setOpneMenu(!opneMenu)}><span></span><span></span><span></span><span></span></div>
+        <MobileMenu opneMenu={opneMenu} />
 
       </header>
     </>

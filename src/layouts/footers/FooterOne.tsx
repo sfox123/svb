@@ -30,24 +30,17 @@ export default function FooterOne() {
                     <a href="#"><img src="assets/img/footer-logo.svg" alt="Edumon" /></a>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit varius congue Morbi
+                  We provide a reputable and professional service that aims to give you the confidence to pass your test and drive safely on the roads.
                   </p>
 
                   <div className="fot-social">
                     <span>Follow Us On :</span>
                     <ul>
                       <li>
-                        <a href="#"><i className="bx bxl-facebook"></i></a>
-                      </li>
-
-                      <li>
-                        <a href="#"><i className="bx bxl-twitter"></i></a>
+                        <a href="https://www.facebook.com/SVBDrivingSchool/" target='_blank'><i className="bx bxl-facebook"></i></a>
                       </li>
                       <li>
-                        <a href="#"><i className="bx bxl-linkedin"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i className="bx bxl-youtube"></i></a>
+                        <a href="https://www.instagram.com/vignesh_svb/" target='_blank'><i className="bx bxl-instagram"></i></a>
                       </li>
                     </ul>
                   </div>
@@ -55,33 +48,6 @@ export default function FooterOne() {
               </div>
             </div>
 
-            <div className="col-xl-3 col-md-6 col-12 wow fadeIn">
-              <div className="single-footer">
-                <h3 className="footer-title">Useful Links</h3>
-                <ul>
-                  <li><a href="#">Home</a></li>
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Courses</a></li>
-                  <li><a href="#">Categories</a></li>
-                  <li><a href="#">Pricing</a></li>
-                  <li><a href="#">Contact</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div className="col-xl-3 col-md-6 col-12 wow fadeIn">
-              <div className="single-footer">
-                <h3 className="footer-title">Resources</h3>
-                <ul>
-                  <li><a href="#">Community</a></li>
-                  <li><a href="#">Support</a></li>
-                  <li><a href="#">Video Guides</a></li>
-                  <li><a href="#">Terms and Conditions</a></li>
-                  <li><a href="#">Blog</a></li>
-                  <li><a href="#">Security</a></li>
-                </ul>
-              </div>
-            </div>
 
             <div className="col-xl-3 col-md-6 col-12 wow fadeIn">
               <div className="single-footer">
@@ -89,19 +55,19 @@ export default function FooterOne() {
                 <div className="contact-info">
                   <p>
                     <i className='bx bx-map' ></i>
-                    <span>15 Rose StreetHarvey, IL <br />
-                      60426 USA</span>
+                    <span>4030 Sheppard Ave E Office 203 A, Toronto<br />
+                    ON M1S 1S6, Canada</span>
                   </p>
                   <p>
                     <i className='bx bx-phone' ></i>
                     <span>
-                      708-210-9101</span>
+                    +1 647-548-8025</span>
                   </p>
 
                   <p>
                     <i className='bx bx-envelope'></i>
                     <span>
-                      example@education.com</span>
+                      info@svbdriving.ca</span>
                   </p>
                 </div>
               </div>
@@ -137,7 +103,7 @@ export default function FooterOne() {
         </div>
 
         <div className="copyright text-center wow fadeIn">
-          <p>Copyright © 2024 <a href="#">Edumon</a>. All rights reserved.</p>
+          <p>Copyright © 2024 <a href="#">svbdriving</a>. All rights reserved.</p>
         </div>
       </section>
     </>

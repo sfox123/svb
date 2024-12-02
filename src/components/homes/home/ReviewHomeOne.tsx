@@ -9,7 +9,7 @@ export default function ReviewHomeOne() {
   return (
     <>
 
-      <section className="review section-padding">
+      <section id="reviews" className="review section-padding">
         <div className="container">
           <div className="row">
             <div className="col-10 wow fadeInUp">

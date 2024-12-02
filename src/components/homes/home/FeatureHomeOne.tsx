@@ -9,7 +9,7 @@ type Props = {
 export default function FeatureHomeOne({style_2}: Props) {
   return (
     <>
-      <section className={`features section-padding ${style_2 ? 'fstyle-2' : ''}`}>
+      <section id='why' className={`features section-padding ${style_2 ? 'fstyle-2' : ''}`}>
         <div className="container">
           <div className="row">
             <div className="col-12 wow fadeInUp">

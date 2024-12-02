@@ -7,7 +7,7 @@ import { Swiper, SwiperSlide } from 'swiper/react'
 export default function CoursesHomeOne() {
   return (
     <>
-      <section className="courses">
+      <section  id="courses" className="courses">
         <div className="container">
           <div className="row">
             <div className="col-12 wow fadeInUp">

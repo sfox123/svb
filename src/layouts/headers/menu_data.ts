@@ -14,7 +14,7 @@ const menu_data: DataType[] = [
 		id: 1,
 		title: "Home",
 		link: "#",
-		has_dropdown: true,
+		has_dropdown: false,
 		sub_menus: [
 			{ link: "/", title: "Home One" },
 			{ link: "/home-2", title: "Home Two" },
@@ -22,9 +22,9 @@ const menu_data: DataType[] = [
 	}, 
 	{
 		id: 2,
-		title: "Courses",
-		link: "#",
-		has_dropdown: true,
+		title: "Why Us",
+		link: "#why",
+		has_dropdown: false,
 		sub_menus: [
 			{ link: "/courses", title: "Course Style1" },
 			{ link: "/courses-2", title: "Course Style2" },
@@ -34,9 +34,9 @@ const menu_data: DataType[] = [
 
 	{
 		id: 3,
-		title: "Pages",
-		link: "#",
-		has_dropdown: true,
+		title: "Courses",
+		link: "#courses",
+		has_dropdown: false,
 		sub_menus: [
 			{ link: "/grid-blog", title: "Grid Blog" },
 			{ link: "/standard-blog", title: "Standard Blog" },
@@ -52,9 +52,9 @@ const menu_data: DataType[] = [
 	},
 	{
 		id: 4,
-		title: "Blog",
-		link: "#",
-		has_dropdown: true,
+		title: "Reviews",
+		link: "#reviews",
+		has_dropdown: false,
 		sub_menus: [
 			{ link: "/grid-blog", title: "Grid Blog" },
 			{ link: "/standard-blog", title: "Standard Blog" },

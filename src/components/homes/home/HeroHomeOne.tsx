@@ -126,51 +126,212 @@ export default function HeroHomeOne() {
           <div className="bg_shapes moeffect">
             <div className="bshape1 eitem" defaultValue={1}>
               <svg
+                id="Layer_1"
                 xmlns="http://www.w3.org/2000/svg"
-                enableBackground="new 0 0 32 32"
-                viewBox="0 0 32 32"
-                id="driving-course"
+                viewBox="0 0 204 204"
               >
-                <path d="M29.901062 20.5803833c-.0040283-.008667-.0022583-.019104-.0065308-.0276489C28.4902344 17.7441406 25.6674805 16 22.527832 16h-2.8710938c-3.8022461 0-7.3833008 1.4375-10.1220703 4.0566406L6.8676758 20.4375C4.0927734 20.8339844 2 23.2460938 2 26.0488281V27c0 .5527344.4477539 1 1 1h2.1843262C5.5984497 29.161499 6.6980591 30 8 30s2.4016113-.838501 2.8157349-2h10.3685913C21.5984497 29.161499 22.6980591 30 24 30c1.3914185 0 2.553772-.956604 2.8914795-2.2434692l2.4249268-.8082886C29.7246094 26.8125 30 26.4306641 30 26v-5C30 20.8486938 29.9611206 20.7088623 29.901062 20.5803833zM27.0986938 20h-5.8179321l.5-2h.7470703C24.3029175 18 25.9385376 18.7419434 27.0986938 20zM19.7192383 18l-.5 2h-6.3822632c2.0179443-1.296936 4.3630371-2 6.8197632-2H19.7192383zM8 28c-.5512695 0-1-.4482422-1-1s.4487305-1 1-1 1 .4482422 1 1S8.5512695 28 8 28zM24 28c-.5512695 0-1-.4482422-1-1s.4487305-1 1-1 1 .4482422 1 1S24.5512695 28 24 28zM26.6986694 25.7132568C26.2151489 24.7038574 25.1920166 24 24 24c-1.3019409 0-2.4016113.838501-2.8157349 2H10.8157349C10.4016113 24.838501 9.3019409 24 8 24s-2.4016113.838501-2.8157349 2H4.0004883c.0239258-1.7929688 1.3696289-3.328125 3.1499023-3.5820313L10.0733032 22H28v3.2792969L26.6986694 25.7132568zM2.59375 7.9140625L6 9.4279785V13c0 .4091797.2490234.7763672.628418.9287109l5 2C11.7480469 15.9765625 11.8740234 16 12 16s.2519531-.0234375.371582-.0712891l5-2C17.7509766 13.7763672 18 13.4091797 18 13V9.4279785l2-.888916V14c0 .5527344.4477539 1 1 1s1-.4472656 1-1V7c0-.3955078-.2329102-.7529297-.59375-.9140625l-9-4c-.2587891-.1152344-.5537109-.1152344-.8125 0l-9 4C2.2329102 6.2470703 2 6.6044922 2 7S2.2329102 7.7529297 2.59375 7.9140625zM16 12.3232422l-4 1.5996094-4-1.5996094v-2.0064087l3.59375 1.597229C11.7231445 11.9716797 11.8618164 12 12 12s.2768555-.0283203.40625-.0859375L16 10.3168335V12.3232422zM12 4.0947266L18.5375977 7 12 9.9052734 5.4624023 7 12 4.0947266z"></path>
-              </svg>
-            </div>
-
-            <div className="bshape2 eitem" defaultValue={2.5}>
-<svg xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" xmlLang="http://svgjs.com/svgjs" id="SvgjsSvg1001" width="288" height="288" version="1.1"><defs id="SvgjsDefs1002"/><g id="SvgjsG1008"><svg xmlns="http://www.w3.org/2000/svg" enableBackground="new 0 0 48 48" viewBox="0 0 48 48" width="288" height="288"><path fill="#ffffff" d="M37 6h-5c-.55 0-1 .45-1 1v8c-.03.97 1.35 1.38 1.85.53 0 0 5-8 5-8C38.27 6.9 37.76 5.98 37 6zM37 19h-5c-.55 0-1 .45-1 1v8c-.03.97 1.35 1.38 1.85.53 0 0 5-8 5-8C38.27 19.9 37.76 18.98 37 19zM37 31h-5c-.55 0-1 .45-1 1v8c-.03.97 1.35 1.38 1.85.53 0 0 5-8 5-8C38.27 31.9 37.76 30.98 37 31zM15.15 15.53c.49.85 1.88.45 1.85-.53 0 0 0-8 0-8 0-.55-.45-1-1-1h-5c-.36 0-.7.2-.87.52s-.17.71.03 1.01L15.15 15.53zM10.15 20.53l5 8c.49.85 1.88.45 1.85-.53 0 0 0-8 0-8 0-.55-.45-1-1-1h-5C10.24 18.98 9.73 19.9 10.15 20.53zM10.15 32.53l5 8c.49.85 1.88.45 1.85-.53 0 0 0-8 0-8 0-.55-.45-1-1-1h-5C10.24 30.98 9.73 31.9 10.15 32.53z" className="color414f66 svgShape"/><path fill="#ffffff" d="M30,4H18c-1.65,0-3,1.35-3,3v36c0,1.65,1.35,3,3,3h12c1.65,0,3-1.35,3-3V7C33,5.35,31.65,4,30,4z" className="color434343 svgShape"/><circle cx="24" cy="13" r="5" fill="#4be45a" className="colorc65d7f svgShape"/><circle cx="24" cy="25" r="5" fill="#da9c11" className="colore5c06e svgShape"/><circle cx="24" cy="37" r="5" fill="#ff4e4e" className="color536b40 svgShape"/><path d="M24 18c6.61-.21 6.61-9.79 0-10C17.39 8.21 17.39 17.79 24 18zM24 10c3.96.1 3.96 5.9 0 6C20.04 15.9 20.04 10.1 24 10zM24 30c6.61-.21 6.61-9.79 0-10C17.39 20.21 17.39 29.79 24 30zM24 22c3.96.1 3.96 5.9 0 6C20.04 27.9 20.04 22.1 24 22zM24 42c6.61-.21 6.61-9.79 0-10C17.39 32.21 17.39 41.79 24 42zM24 34c3.96.1 3.96 5.9 0 6C20.04 39.9 20.04 34.1 24 34z"/><path d="M11,31c-0.76-0.03-1.27,0.9-0.85,1.53c0,0,4.85,7.76,4.85,7.76V43c0,1.65,1.35,3,3,3h12c1.65,0,3-1.35,3-3v-2.71l4.85-7.76   c0.42-0.63-0.09-1.55-0.85-1.53c0,0-4,0-4,0v-2.71l4.85-7.76C38.27,19.9,37.76,18.98,37,19c0,0-4,0-4,0v-3.71l4.85-7.76   C38.27,6.9,37.76,5.97,37,6c0,0-4.18,0-4.18,0C32.4,4.84,31.3,4,30,4h-5V3c-0.02-1.3-1.98-1.32-2,0c0,0,0,1,0,1h-5   c-1.3,0-2.4,0.84-2.82,2H11c-0.76-0.02-1.27,0.9-0.85,1.53c0,0,4.85,7.76,4.85,7.76V19h-4c-0.76-0.02-1.27,0.9-0.85,1.53   c0,0,4.85,7.76,4.85,7.76V31H11z M12.8,33H15v3.51L12.8,33z M35.2,33L33,36.51V33H35.2z M35.2,21L33,24.51V21H35.2z M33,11.51V8   h2.2L33,11.51z M18,6h12c0.55,0,1,0.45,1,1v36c0,0.55-0.45,1-1,1H18c-0.55,0-1-0.45-1-1V7C17,6.45,17.45,6,18,6z M12.8,8H15v3.51   L12.8,8z M12.8,21H15v3.51L12.8,21z"/></svg></g></svg>
-            </div>
-
-            <div className="bshape3 eitem" defaultValue={1.5}>
-              <svg fill="none" viewBox="0 0 57 57">
-                <path
+                <g opacity=".65">
+                  <polyline
+                    points="202 196 202 202 196 202"
+                    fill="none"
+                    stroke="#fff"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="4"
+                  />
+                  <line
+                    x1="183.47"
+                    y1="202"
+                    x2="14.27"
+                    y2="202"
+                    fill="none"
+                    stroke="#fff"
+                    stroke-dasharray="12.53 12.53"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="4"
+                  />
+                  <polyline
+                    points="8 202 2 202 2 196"
+                    fill="none"
+                    stroke="#fff"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="4"
+                  />
+                  <line
+                    x1="2"
+                    y1="183.47"
+                    x2="2"
+                    y2="14.27"
+                    fill="none"
+                    stroke="#fff"
+                    stroke-dasharray="12.53 12.53"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="4"
+                  />
+                  <polyline
+                    points="2 8 2 2 8 2"
+                    fill="none"
+                    stroke="#fff"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="4"
+                  />
+                  <line
+                    x1="20.53"
+                    y1="2"
+                    x2="189.73"
+                    y2="2"
+                    fill="none"
+                    stroke="#fff"
+                    stroke-dasharray="12.53 12.53"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="4"
+                  />
+                  <polyline
+                    points="196 2 202 2 202 8"
+                    fill="none"
+                    stroke="#fff"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="4"
+                  />
+                  <line
+                    x1="202"
+                    y1="20.53"
+                    x2="202"
+                    y2="189.73"
+                    fill="none"
+                    stroke="#fff"
+                    stroke-dasharray="12.53 12.53"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="4"
+                  />
+                </g>
+                <text
+                  transform="translate(59.54 147.98)"
                   fill="#fff"
-                  fillOpacity=".2"
-                  d="M46.865.174c-.345.122-.846.367-1.113.557-.268.19-9.479 9.334-20.46 20.316l-19.96 19.97-2.629 6.393C1.255 50.92.041 53.993.02 54.227-.171 55.597 1.089 57 2.514 57c.479 0 .902-.167 7.496-2.885l5.947-2.45 20.038-20.026c11.015-11.016 20.17-20.25 20.349-20.527.768-1.215.869-2.785.234-4.055-.279-.557-.836-1.18-3.208-3.542C50.964 1.121 50.396.608 49.85.363c-.868-.4-2.105-.479-2.985-.19zm-1.693 11.628c2.228 2.228 4.044 4.088 4.044 4.155 0 .144-2.139 2.283-2.284 2.283-.056 0-1.949-1.838-4.199-4.088l-4.099-4.099 1.136-1.136c.635-.635 1.192-1.147 1.26-1.147.055 0 1.926 1.816 4.142 4.032zm-5.87 1.259l1.727 1.726-7.106 7.106c-7.685 7.696-7.429 7.384-6.816 7.986.601.613.29.869 7.986-6.817l7.106-7.106 1.726 1.727c.947.947 1.726 1.77 1.726 1.838 0 .055-6.783 6.894-15.07 15.18l-15.058 15.06-1.782-1.783-1.782-1.782 7.106-7.106c7.685-7.696 7.429-7.384 6.816-7.986-.601-.612-.29-.869-7.986 6.817l-7.106 7.106-1.782-1.782-1.782-1.782 15.059-15.06c8.287-8.286 15.125-15.069 15.18-15.069.068 0 .892.78 1.839 1.727zM10.178 46.864c2.072 2.072 3.753 3.799 3.731 3.82-.09.068-6.16 2.551-6.382 2.618-.156.045-.68-.412-2.038-1.77-1.003-1.003-1.827-1.872-1.827-1.939 0-.156 2.606-6.516 2.673-6.516.034 0 1.76 1.705 3.843 3.787z"
-                />
+                  font-family="BalboaPlus-Primary, BalboaPlus"
+                  font-size="156.12"
+                  opacity=".5"
+                >
+                  <tspan x="0" y="0">
+                    L
+                  </tspan>
+                </text>
               </svg>
             </div>
 
-            <div className="bshape4 eitem" defaultValue={2}>
-              <svg fill="none" viewBox="0 0 146 91">
-                <path
-                  stroke="#fff"
-                  strokeOpacity=".25"
-                  strokeWidth="3"
-                  d="M1 88.974c57.757 1.132 10.964-35.222 26.06-46.86 15.097-11.638 32.815 14.148 53.859 8.381 21.044-5.766-12.378-39.299 12.998-47.543C119.292-5.29 116.734 43.06 145 29.644"
-                />
-              </svg>
-            </div>
+            <div className="bshape2 eitem" defaultValue={2.5}></div>
+
+            <div className="bshape3 eitem" defaultValue={1.5}></div>
+
+            <div className="bshape1 eitem" defaultValue={5}></div>
           </div>
 
           <div className="tpshape">
-            <svg fill="none" viewBox="0 0 147 297">
-              <path
-                fillRule="evenodd"
-                stroke="#fff"
-                strokeOpacity=".05"
-                strokeWidth="7"
-                d="M83.755-55.798c33.904 36.979 10.442 93.21 19.058 142.218 9.073 51.606 59.065 103.667 31.95 147.908-27.292 44.529-94.427 31.803-146.613 39.177-53.094 7.503-112.908 37.432-155.043 3.451-41.916-33.803-18.758-98.921-28.438-151.421-10.342-56.091-57.129-112.778-29.34-161.951 28.69-50.767 97.899-59.728 156.706-63.423 54.33-3.414 114.657 3.619 151.72 44.041z"
-                clipRule="evenodd"
-              />
+            <svg
+              id="Layer_1"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 204 204"
+            >
+              <g opacity=".35">
+                <polyline
+                  points="202 196 202 202 196 202"
+                  fill="none"
+                  stroke="#fff"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="4"
+                />
+                <line
+                  x1="183.47"
+                  y1="202"
+                  x2="14.27"
+                  y2="202"
+                  fill="none"
+                  stroke="#fff"
+                  stroke-dasharray="12.53 12.53"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="4"
+                />
+                <polyline
+                  points="8 202 2 202 2 196"
+                  fill="none"
+                  stroke="#fff"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="4"
+                />
+                <line
+                  x1="2"
+                  y1="183.47"
+                  x2="2"
+                  y2="14.27"
+                  fill="none"
+                  stroke="#fff"
+                  stroke-dasharray="12.53 12.53"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="4"
+                />
+                <polyline
+                  points="2 8 2 2 8 2"
+                  fill="none"
+                  stroke="#fff"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="4"
+                />
+                <line
+                  x1="20.53"
+                  y1="2"
+                  x2="189.73"
+                  y2="2"
+                  fill="none"
+                  stroke="#fff"
+                  stroke-dasharray="12.53 12.53"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="4"
+                />
+                <polyline
+                  points="196 2 202 2 202 8"
+                  fill="none"
+                  stroke="#fff"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="4"
+                />
+                <line
+                  x1="202"
+                  y1="20.53"
+                  x2="202"
+                  y2="189.73"
+                  fill="none"
+                  stroke="#fff"
+                  stroke-dasharray="12.53 12.53"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="4"
+                />
+              </g>
+              <text
+                transform="translate(59.54 147.98)"
+                fill="#fff"
+                font-family="BalboaPlus-Primary, BalboaPlus"
+                font-size="156.12"
+                opacity=".5"
+              >
+                <tspan x="0" y="0">
+                  L
+                </tspan>
+              </text>
             </svg>
           </div>
 
@@ -209,7 +370,7 @@ export default function HeroHomeOne() {
                 clipRule="evenodd"
               />
             </svg>
-          </div>  
+          </div>
         </div>
       </section>
     </>

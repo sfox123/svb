@@ -125,105 +125,7 @@ export default function HeroHomeOne() {
 
           <div className="bg_shapes moeffect">
             <div className="bshape1 eitem" defaultValue={1}>
-              <svg
-                id="Layer_1"
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 204 204"
-              >
-                <g opacity=".65">
-                  <polyline
-                    points="202 196 202 202 196 202"
-                    fill="none"
-                    stroke="#fff"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="4"
-                  />
-                  <line
-                    x1="183.47"
-                    y1="202"
-                    x2="14.27"
-                    y2="202"
-                    fill="none"
-                    stroke="#fff"
-                    stroke-dasharray="12.53 12.53"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="4"
-                  />
-                  <polyline
-                    points="8 202 2 202 2 196"
-                    fill="none"
-                    stroke="#fff"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="4"
-                  />
-                  <line
-                    x1="2"
-                    y1="183.47"
-                    x2="2"
-                    y2="14.27"
-                    fill="none"
-                    stroke="#fff"
-                    stroke-dasharray="12.53 12.53"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="4"
-                  />
-                  <polyline
-                    points="2 8 2 2 8 2"
-                    fill="none"
-                    stroke="#fff"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="4"
-                  />
-                  <line
-                    x1="20.53"
-                    y1="2"
-                    x2="189.73"
-                    y2="2"
-                    fill="none"
-                    stroke="#fff"
-                    stroke-dasharray="12.53 12.53"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="4"
-                  />
-                  <polyline
-                    points="196 2 202 2 202 8"
-                    fill="none"
-                    stroke="#fff"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="4"
-                  />
-                  <line
-                    x1="202"
-                    y1="20.53"
-                    x2="202"
-                    y2="189.73"
-                    fill="none"
-                    stroke="#fff"
-                    stroke-dasharray="12.53 12.53"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="4"
-                  />
-                </g>
-                <text
-                  transform="translate(59.54 147.98)"
-                  fill="#fff"
-                  font-family="BalboaPlus-Primary, BalboaPlus"
-                  font-size="156.12"
-                  opacity=".5"
-                >
-                  <tspan x="0" y="0">
-                    L
-                  </tspan>
-                </text>
-              </svg>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151 151"><path d="M83.12,60.07l-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01,0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42L25.96,30.11l6.53,14.84,43.01,97.74,43.01-97.74,6.53-14.84-41.92,29.96ZM83.12,60.07l-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01,0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42L25.96,30.11l6.53,14.84,43.01,97.74,43.01-97.74,6.53-14.84-41.92,29.96ZM83.12,60.07l-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01,0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42L25.96,30.11l6.53,14.84,43.01,97.74,43.01-97.74,6.53-14.84-41.92,29.96ZM83.12,60.07l-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01,0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42L25.96,30.11l6.53,14.84,43.01,97.74,43.01-97.74,6.53-14.84-41.92,29.96ZM83.12,60.07l-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01,0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42L25.96,30.11l6.53,14.84,43.01,97.74,43.01-97.74,6.53-14.84-41.92,29.96ZM83.12,60.07l-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01,0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42L25.96,30.11l6.53,14.84,43.01,97.74,43.01-97.74,6.53-14.84-41.92,29.96ZM83.12,60.07l-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01,0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42L25.96,30.11l6.53,14.84,43.01,97.74,43.01-97.74,6.53-14.84-41.92,29.96Z" fill="#fff" opacity=".1" stroke="#fff" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="3"/><path d="M75.5,1.5C34.63,1.5,1.5,34.63,1.5,75.5s33.13,74,74,74,74-33.13,74-74S116.37,1.5,75.5,1.5ZM75.5,142.69c-37.11,0-67.19-30.08-67.19-67.19,0-14.5,4.59-27.93,12.41-38.91,1.61-2.26,3.36-4.43,5.24-6.48,12.28-13.4,29.93-21.8,49.54-21.8s37.26,8.4,49.54,21.8c1.88,2.05,3.63,4.22,5.24,6.48,7.82,10.98,12.41,24.41,12.41,38.91,0,37.11-30.08,67.19-67.19,67.19Z" fill="#fff" opacity=".1" stroke="#fff" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="3"/><path d="M142.69,75.5c0,37.11-30.08,67.19-67.19,67.19l43.01-97.74,6.53-14.84c1.88,2.05,3.63,4.22,5.24,6.48,7.82,10.98,12.41,24.41,12.41,38.91Z" fill="none" opacity=".1" stroke="#fff" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="3"/><path d="M83.12,60.07l-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01,0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42L25.96,30.11l6.53,14.84,43.01,97.74,43.01-97.74,6.53-14.84-41.92,29.96Z" fill="#fff" opacity=".1" stroke="#fff" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="3"/><g opacity=".1"><path d="M75.5,87.84v54.85L32.49,44.95l-6.53-14.84,41.92,29.96,4.78,3.42c-5.45,1.29-9.5,6.18-9.5,12.01,0,6.81,5.53,12.34,12.34,12.34Z" fill="#6fc387" stroke="#fff" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="3"/><path d="M125.04,30.11l-6.53,14.84-43.01,97.74v-54.85c6.81,0,12.34-5.53,12.34-12.34,0-5.83-4.05-10.72-9.5-12.01l4.78-3.42,41.92-29.96Z" fill="#6fc387" stroke="#fff" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="3"/></g><path d="M83.12,60.07l-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01,0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42c-5.68,2.81-9.58,8.67-9.58,15.43,0,9.5,7.7,17.2,17.2,17.2s17.2-7.7,17.2-17.2c0-6.76-3.9-12.62-9.58-15.43Z" fill="#fff" opacity=".1" stroke="#fff" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="3"/><path d="M87.84,75.5c0,6.81-5.53,12.34-12.34,12.34s-12.34-5.53-12.34-12.34c0-5.83,4.05-10.72,9.5-12.01l-4.78-3.42L25.96,30.11c12.28-13.4,29.93-21.8,49.54-21.8s37.26,8.4,49.54,21.8l-41.92,29.96-4.78,3.42c5.45,1.29,9.5,6.18,9.5,12.01Z" fill="#6fc387" opacity=".1" stroke="#fff" strokeLinecap="round" strokeMiterlimit="10" strokeWidth="3"/></svg>
             </div>
 
             <div className="bshape2 eitem" defaultValue={2.5}></div>
@@ -244,9 +146,9 @@ export default function HeroHomeOne() {
                   points="202 196 202 202 196 202"
                   fill="none"
                   stroke="#fff"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="4"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="4"
                 />
                 <line
                   x1="183.47"
@@ -255,18 +157,18 @@ export default function HeroHomeOne() {
                   y2="202"
                   fill="none"
                   stroke="#fff"
-                  stroke-dasharray="12.53 12.53"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="4"
+                  strokeDasharray="12.53 12.53"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="4"
                 />
                 <polyline
                   points="8 202 2 202 2 196"
                   fill="none"
                   stroke="#fff"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="4"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="4"
                 />
                 <line
                   x1="2"
@@ -275,18 +177,18 @@ export default function HeroHomeOne() {
                   y2="14.27"
                   fill="none"
                   stroke="#fff"
-                  stroke-dasharray="12.53 12.53"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="4"
+                  strokeDasharray="12.53 12.53"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="4"
                 />
                 <polyline
                   points="2 8 2 2 8 2"
                   fill="none"
                   stroke="#fff"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="4"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="4"
                 />
                 <line
                   x1="20.53"
@@ -295,18 +197,18 @@ export default function HeroHomeOne() {
                   y2="2"
                   fill="none"
                   stroke="#fff"
-                  stroke-dasharray="12.53 12.53"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="4"
+                  strokeDasharray="12.53 12.53"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="4"
                 />
                 <polyline
                   points="196 2 202 2 202 8"
                   fill="none"
                   stroke="#fff"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="4"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="4"
                 />
                 <line
                   x1="202"
@@ -315,17 +217,17 @@ export default function HeroHomeOne() {
                   y2="189.73"
                   fill="none"
                   stroke="#fff"
-                  stroke-dasharray="12.53 12.53"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="4"
+                  strokeDasharray="12.53 12.53"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="4"
                 />
               </g>
               <text
                 transform="translate(59.54 147.98)"
                 fill="#fff"
-                font-family="BalboaPlus-Primary, BalboaPlus"
-                font-size="156.12"
+                fontFamily="BalboaPlus-Primary, BalboaPlus"
+                fontSize="156.12"
                 opacity=".5"
               >
                 <tspan x="0" y="0">

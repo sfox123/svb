@@ -27,7 +27,7 @@ export default function FooterOne() {
               <div className="single-footer">
                 <div className="about-footer">
                   <div className="footer-logo">
-                    <a href="#"><img src="assets/img/footer-logo.svg" alt="Edumon" /></a>
+                    <a href="#"><img src="assets/img/logo.png" alt="Edumon" /></a>
                   </div>
                   <p>
                   We provide a reputable and professional service that aims to give you the confidence to pass your test and drive safely on the roads.

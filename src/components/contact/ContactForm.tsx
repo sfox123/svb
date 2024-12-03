@@ -21,8 +21,7 @@ export default function ContactForm() {
                         <div className="cinfo_content">
                           <h4>For any Query?</h4>
                           <p>
-                            <a href="#">Free +68 (025)-9875</a><br />
-                            <a href="#">Free +68 (026)-9879</a>
+                            <a href="#">+1 647-548-8025</a><br />
                           </p>
                         </div>
                       </div>
@@ -36,8 +35,7 @@ export default function ContactForm() {
                         <div className="cinfo_content">
                           <h4>Write email Us</h4>
                           <p>
-                            <a href="#">admin@example.com</a><br />
-                            <a href="#">support@example.com</a>
+                            <a href="#">info@svbdriving.ca</a><br />
                           </p>
                         </div>
                       </div>
@@ -49,9 +47,10 @@ export default function ContactForm() {
                           <i className='bx bx-map' ></i>
                         </div>
                         <div className="cinfo_content">
-                          <h4>Visit anytime</h4>
+                          <h4>Weekdays</h4>
+                          <p> 8 AM–9 PM</p>
                           <p>
-                            427 Hall Place Longview, Texas
+                          4030 Sheppard Ave E Office 203 A, Toronto, ON M1S 1S6, CA
                           </p>
                         </div>
                       </div>

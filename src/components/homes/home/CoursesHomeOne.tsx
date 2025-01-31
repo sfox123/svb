@@ -60,8 +60,20 @@ export default function CoursesHomeOne() {
                             <i className="bx bxs-star"></i>
                           </a>
                         </div>
-                        <h2><Link href="/course-details">Beginner’s Driving Lesson</Link></h2>
-                        <p>This course is designed to help new drivers develop the necessary knowledge and skills to become safe and responsible drivers.</p>
+                        <h4>Package #1</h4>
+                        <h1>$563</h1>
+                        <p><b>+ HST + Certification Fee</b></p>
+                        <ul>
+                          <li>20 Hours of Online Theory</li>
+                          <li>10 Hours of In-Car Training</li>
+                          <li>10 Hours of Homework</li>
+                          <li>Free Pick and Drop</li>
+                          <li>Free Road Test</li>
+                          <li>MTO Certicate Processing</li>
+                          <li>Defensive Driving Techniques</li>
+                          <li>Advanced Intersection Techniques</li>
+                        </ul>
+                        
                         <div className="course_btm">
                         </div>
                       </div>
@@ -82,8 +94,22 @@ export default function CoursesHomeOne() {
                             <i className="bx bxs-star"></i>
                           </a>
                         </div>
-                        <h2><Link href="/course-details">Individual In-Car Lesson</Link></h2>
-                        <p>This Lesson is designed to help students who need additional practice before taking their G2 and G road test</p>
+                        <h4>Package #2</h4>
+                        <h1>$740</h1>
+                        <p><b>+ HST + Certification Fee</b></p>
+                        <ul>
+                          <li>20 Hours of Online Theory</li>
+                          <li>10 Hours of In-Car Training</li>
+                          <li>10 Hours of Homework</li>
+                          <li>Free Pick and Drop</li>
+                          <li>Free Road Test</li>
+                          <li>MTO Certicate Processing</li>
+                          <li>Defensive Driving Techniques</li>
+                          <li>Advanced Intersection Techniques</li>
+                          <li><b>Test Booking Provided</b></li>
+                          <li><b>Use of Instructor's Car for Local Road Test</b></li>
+                        </ul>
+                        
                         <div className="course_btm">
                         </div>
                       </div>
@@ -104,8 +130,22 @@ export default function CoursesHomeOne() {
                             <i className="bx bxs-star"></i>
                           </a>
                         </div>
-                        <h2><Link href="/course-details">Road Test Preparation</Link></h2>
-                        <p>Our experienced instructors prepare students for their road test by providing them with the necessary knowledge and skills.</p>
+                        <h4>Package #1</h4>
+                        <h1>$890</h1>
+                        <p><b>+ HST + Certification Fee</b></p>
+                        <ul>
+                          <li>20 Hours of Online Theory</li>
+                          <li><b>14 Hours of Practical in Car</b></li>
+                          <li>10 Hours of Homework</li>
+                          <li>Free Pick and Drop</li>
+                          <li>Free Road Test</li>
+                          <li>MTO Certicate Processing</li>
+                          <li>Defensive Driving Techniques</li>
+                          <li>Advanced Intersection Techniques</li>
+                          <li><b>Test Booking Provided</b></li>
+                          <li><b>Use of Instructor's Car for Local Road Test</b></li>
+                        </ul>
+                        
                         <div className="course_btm">
                         </div>
                       </div>

@@ -46,7 +46,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/3.jpg" alt="review" />
+                        <img src="assets/img/review/user.png" alt="review" />
                         <span className="rating-number">5.00</span>
                       </div>
 
@@ -79,7 +79,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/1.jpg" alt="review" />
+                        <img src="assets/img/review/user.png" alt="review" />
                         <span className="rating-number">5.00</span>
                       </div>
 
@@ -111,7 +111,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/3.jpg" alt="review" />
+                        <img src="assets/img/review/user.png" alt="review" />
                         <span className="rating-number">5.00</span>
                       </div>
 
@@ -145,7 +145,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/1.jpg" alt="review" />
+                        <img src="assets/img/review/user.png" alt="review" />
                         <span className="rating-number">5.00</span>
                       </div>
 
@@ -176,7 +176,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/2.jpg" alt="review" />
+                        <img src="assets/img/review/user.png" alt="review" />
                         <span className="rating-number">5.00</span>
                       </div>
 

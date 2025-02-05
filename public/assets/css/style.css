@@ -594,6 +594,14 @@ img {
   position: relative;
   height: 750px;
 }
+
+@media screen and (max-width: 767px) {
+  .home-banner {
+    background-image: url(../img/banner-3-mobile.png);
+    background-size: cover;
+  }
+}
+
 .banner-content {
   height: 750px;
   position: relative;

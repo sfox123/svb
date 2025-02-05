@@ -79,7 +79,7 @@ export default function HeroHomeOne() {
             </div>
           </div>
 
-          <div className="banner_img">
+          {/* <div className="banner_img">
             <div className="banner_img_inner moeffect">
               <img src="assets/img/banner.png" alt="Banner Image" />
               <div className="total_students_badge eitem" defaultValue="1">
@@ -117,7 +117,7 @@ export default function HeroHomeOne() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="book_icon">
             <i className="bx bx-book-open"></i>

@@ -3,7 +3,7 @@ import React from "react";
 import HeroHomeOne from "./HeroHomeOne";
 import FeatureHomeOne from "./FeatureHomeOne";
 import AboutHomeOne from "./AboutHomeOne";
-import CounterHomeOne from "./CounterHomeOne";
+import GalleryHome from "./Gallery";
 import CoursesHomeOne from "./CoursesHomeOne";
 import Certified from "@/components/certified";
 import ReviewHomeOne from "./ReviewHomeOne";
@@ -17,8 +17,8 @@ export default function HomeOne() {
       <Certified />
       <FeatureHomeOne />
       <AboutHomeOne />
-      <CounterHomeOne />
       <CoursesHomeOne />
+      <GalleryHome />
       <ReviewHomeOne />
       <FooterOne />
     </>

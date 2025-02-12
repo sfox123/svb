@@ -39,8 +39,8 @@ export default function FeatureHomeOne({ style_2 }: Props) {
                 </div>
                 <h3>EXPERIENCED INSTRUCTOR</h3>
                 <p>
-                  Our driving coache who can speak
-                  <b>four languages (English, Hindi, Tamil, Sinhala)</b> is
+                  Our driving instructor who can speak
+                  <b> four languages (English, Hindi, Tamil, Sinhala)</b> is
                   dedicated to teach students to unlock their maximum potential
                   on the road.
                 </p>

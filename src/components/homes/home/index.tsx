@@ -18,7 +18,7 @@ export default function HomeOne() {
       <FeatureHomeOne />
       <AboutHomeOne />
       <CoursesHomeOne />
-      <GalleryHome />
+      {/* <GalleryHome /> */}
       <ReviewHomeOne />
       <FooterOne />
     </>

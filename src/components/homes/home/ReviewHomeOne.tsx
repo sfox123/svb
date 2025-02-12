@@ -46,8 +46,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/user.png" alt="review" />
-                        <span className="rating-number">5.00</span>
+                        <img src="assets/img/gallery/1.jpg" alt="review" />
                       </div>
 
                       <div className="rev-content">
@@ -79,8 +78,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/user.png" alt="review" />
-                        <span className="rating-number">5.00</span>
+                        <img src="assets/img/gallery/0.jpg" alt="review" />
                       </div>
 
                       <div className="rev-content">
@@ -111,8 +109,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/user.png" alt="review" />
-                        <span className="rating-number">5.00</span>
+                        <img src="assets/img/gallery/7.jpg" alt="review" />
                       </div>
 
                       <div className="rev-content">
@@ -145,8 +142,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/user.png" alt="review" />
-                        <span className="rating-number">5.00</span>
+                        <img src="assets/img/gallery/9.jpg" alt="review" />
                       </div>
 
                       <div className="rev-content">
@@ -176,8 +172,7 @@ export default function ReviewHomeOne() {
                   >
                     <div className="review-item">
                       <div className="rimage">
-                        <img src="assets/img/review/user.png" alt="review" />
-                        <span className="rating-number">5.00</span>
+                        <img src="assets/img/gallery/5.jpg" alt="review" />
                       </div>
 
                       <div className="rev-content">
